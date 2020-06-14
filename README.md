@@ -1,5 +1,6 @@
 # orphicMETA
 A simple Chrome Stealer for Windows 7+. Native. Written in C++.
+![gif](https://github.com/quantumcored/orphicMETA/blob/master/gif.gif)
 
 ## Features
 - Chrome Password Recovery.
