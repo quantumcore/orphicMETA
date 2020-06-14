@@ -1,12 +1,3 @@
-/***************************************************************
- * Name:      testMain.h
- * Purpose:   Defines Application Frame
- * Author:    Fahad (fahad@email.com)
- * Created:   2020-06-13
- * Copyright: Fahad (no.com)
- * License:
- **************************************************************/
-
 #ifndef TESTMAIN_H
 #define TESTMAIN_H
 
