@@ -6,8 +6,10 @@ A simple Chrome Stealer for Windows 7+. Native. Written in C++.
 ---
 
 ## Features
-- Chrome Password Recovery.
-- Gmail Delivery.
+- View your own Chrome Passwords on a Nice and simple Gui.
+- Generate Stub to get someone else's.
+- Receive Via Gmail.
+- Message Box.
 
 ---
 
