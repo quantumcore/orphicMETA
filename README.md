@@ -20,3 +20,5 @@ A simple Chrome Stealer for Windows 8 and above. Native. Written in C++.
 ---
 
 This application uses powershell to dump Chrome Passwords and Send Mails. Be careful when using it, Remember you are responsible for anything you do with it.
+
+**This is a successor of [This Python Script](https://github.com/quantumcore/orphicAC) I created 2 years ago.**
