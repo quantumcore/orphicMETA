@@ -1,6 +1,6 @@
 # orphicMETA
 ---
-A simple Chrome Stealer for Windows 7+. Native. Written in C++.
+A simple Chrome Stealer for Windows 8 and above. Native. Written in C++.
 ![gif](https://github.com/quantumcored/orphicMETA/blob/master/gif.gif)
 
 ---
